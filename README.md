@@ -1,3 +1,3 @@
 # Tugas11_Kriptografi
 
-![Gambar](Tugas11_Kriptografi/SS.png)
+![Gambar 1](Tugas11_Kriptografi/SS.png)
